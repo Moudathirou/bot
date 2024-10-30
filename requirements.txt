@@ -89,7 +89,7 @@ multidict==6.1.0
 murmurhash==1.0.10
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
-numpy==2.0.2
+numpy>=1.23,<3.0
 oauthlib==3.2.2
 onnx==1.17.0
 onnxruntime==1.19.2
